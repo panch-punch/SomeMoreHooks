@@ -1,0 +1,5 @@
+---
+'somemorehooks': patch
+---
+
+Initial release
