@@ -1,0 +1,33 @@
+{
+  "name": "somemorehooks",
+  "version": "0.1.0",
+  "description": "pack of react hooks",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "format": "prettier --write .",
+    "ci": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panch-punch/SomeMoreHooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "Mykola Panchenko <waildpanik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panch-punch/SomeMoreHooks/issues"
+  },
+  "homepage": "https://github.com/panch-punch/SomeMoreHooks/",
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}
